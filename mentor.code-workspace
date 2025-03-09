@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../vegist_14"
+		},
+		{
+			"path": "../eflux"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "eflux"
+	}
+}

@@ -1,0 +1,52 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head1
+{
+    width: 100%;
+    display: flex;
+}
+.head_left
+{
+    width: 20%;
+    background-color: aliceblue;
+}
+.ment
+{
+    color: green;
+    background-color: blue;
+    line-height: 50px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.head_center
+{
+    width: 60%;
+    background-color: aquamarine;
+}
+.head_right
+{
+    width:60% ;
+    /* background-color: blueviolet; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.get 
+{
+    width: 90%;
+    background-color: green;
+    border-radius: 5px;
+    text-align: center;
+}
+.get a
+{
+    text-decoration: none;
+    color: white;
+
+}
